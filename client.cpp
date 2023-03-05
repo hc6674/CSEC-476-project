@@ -82,7 +82,7 @@ int main() {
     }
 }
 
-close(sock);
+    close(sock);
 
-return 0;
+    return 0;
 }
